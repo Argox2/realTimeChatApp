@@ -1,0 +1,8 @@
+public/node_modules/
+server/node_modules/
+public/package.json
+public/package-lock.json
+public/yarn.lock
+server/.env
+server/package-lock.json
+server/package.json
